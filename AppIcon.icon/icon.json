@@ -1,5 +1,13 @@
 {
-  "fill": "system-light",
+  "fill-specializations": [
+    {
+      "value": "system-light"
+    },
+    {
+      "appearance": "dark",
+      "value": "system-dark"
+    }
+  ],
   "groups": [],
   "supported-platforms": {
     "circles": [
